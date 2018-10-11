@@ -7,6 +7,13 @@
 		John Dolan	School of EECS		Summer 2013
 ************************************************************************/
 
+	/*
+		File course.h
+		This file defines the course class.
+		Author John Dolan
+		This is the file that contains all of the class information for the course class. 
+	*/
+
 #include<iostream>
 #include<string>
 #ifndef COURSE_H

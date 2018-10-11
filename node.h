@@ -5,6 +5,13 @@
                 John Dolan  		March 2009
 *************************************************************************/
 
+	/*
+		File node.h
+		This file defines the node class.
+		Author John Dolan
+		This is the file that contains all of the class information for the node class. 
+	*/
+
 #ifndef NODE_H
 #define NODE_H
 #include "course.h"
